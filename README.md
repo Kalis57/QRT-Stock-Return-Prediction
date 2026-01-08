@@ -1,1 +1,0 @@
-# QRT-Stock-Return-Prediction
